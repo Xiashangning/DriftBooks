@@ -1,0 +1,32 @@
+PODS:
+  - ASIHTTPRequest (1.8.2):
+    - ASIHTTPRequest/ASIWebPageRequest (= 1.8.2)
+    - ASIHTTPRequest/CloudFiles (= 1.8.2)
+    - ASIHTTPRequest/Core (= 1.8.2)
+    - ASIHTTPRequest/S3 (= 1.8.2)
+  - ASIHTTPRequest/ASIWebPageRequest (1.8.2):
+    - ASIHTTPRequest/Core
+  - ASIHTTPRequest/CloudFiles (1.8.2):
+    - ASIHTTPRequest/Core
+  - ASIHTTPRequest/Core (1.8.2):
+    - Reachability
+  - ASIHTTPRequest/S3 (1.8.2):
+    - ASIHTTPRequest/Core
+  - Reachability (3.2)
+  - REFrostedViewController (2.4.8)
+  - SDWebImage (3.7.6):
+    - SDWebImage/Core (= 3.7.6)
+  - SDWebImage/Core (3.7.6)
+
+DEPENDENCIES:
+  - ASIHTTPRequest
+  - REFrostedViewController (~> 2.4)
+  - SDWebImage
+
+SPEC CHECKSUMS:
+  ASIHTTPRequest: ec013992946676b7978dcbde6396d57312d21db4
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+  REFrostedViewController: a893b4979ba1f200c547aef9ff4c3fd5a18f5923
+  SDWebImage: c325cf02c30337336b95beff20a13df489ec0ec9
+
+COCOAPODS: 0.39.0

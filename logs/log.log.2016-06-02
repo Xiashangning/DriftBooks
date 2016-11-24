@@ -1,0 +1,7 @@
+2016-06-02 22:35:01 [ WARN ]  mode:null
+Location:[ server.PhotoImg.service(PhotoImg.java:63) ]
+  2016-06-02 22:36:17 [ WARN ]  mode:null
+Location:[ server.PhotoImg.service(PhotoImg.java:63) ]
+  2016-06-02 22:36:36 [ INFO ]  使用默认书本图片
+Location:[ server.PhotoImg.service(PhotoImg.java:45) ]
+  
